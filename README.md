@@ -17,7 +17,7 @@ A Java IDE or a text editor to edit and run the Java files.
 
 1-Installation
 Clone the repository:
-git clone https://github.com/your-username/student-record-system.git
+git clone https://github.com/Lochan78/StudentRecordSystem.git
 
 2-Navigate to the project directory:
 cd student-record-system
